@@ -14,7 +14,7 @@ Built using the `socket` library — perfect for beginners learning networking b
 ---
 
 ## 📜 Requirements
-- Python 3.x
+- Python 3
 
 No external libraries needed!
 
@@ -25,14 +25,14 @@ No external libraries needed!
 1. **Clone this repository:**
 
 ```bash
-git clone https://github.com/your-username/port-scanner.git
-cd port-scanner
+git clone https://github.com/kingtoad-c/simple-port-scanner.git
+cd simple-port-scanner
 ```
 
 2. **Run the script:**
 
 ```bash
-python3 port_scanner.py
+python3 scan.py
 ```
 
 3. **Follow the prompts:**
